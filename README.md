@@ -4,24 +4,30 @@
 
 ## Description
 
-This application allows the user to view and manage the departments, roles, and employees in my company. It provides the user with organization and planning the buisness.
+This command-line application allows the user to view and manage the departments, roles, and employees in my company. The application can also add or remove employees, roles and departments in the company. It provides the user with organization and planning for the companys three main tables; employees, roles and departments.
 
 
 ## Developers
 
 * Natalia Arias: https://github.com/nabi-0
 
+
 ## Technologies
 
-* 
+* MySQL Workbench
+
  
 ## Installation
 
-* 
+* The Git Repository should be cloned. 
+
 
 ## Usage
 
-*   
+* Inside the main directory the user must install the dependencies be running "npm istall" on the command line. 
+
+* On the command line run "node server.js" and the user will then be prompted.
+
 
 ## Credits
 
